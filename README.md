@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @EylemPinkney
-- 👀 I’m interested in software testing.
-- 💞️ I’m currently learning Cypress.
-- 🌱 I'm always looking to connect with other developers and collaborate on future projects. Please feel free to reach out to me if you're interested in working together.
-- 📫 How to reach me https://www.linkedin.com/in/eylempinkney/
+Hi 👋, 
+
+I'm Eylem
+
+QA Automation Engineer
+
+💕 I’m currently working on a project with framework TestNG, Cucumber
+
+🌱 I’m interested in learning Cypress
+
+📫 How to reach me https://www.linkedin.com/in/eylempinkney/
+
+⚡ Fun fact I love manual/automation testing, Typing code, swimming, camping,
+
 
 <!---
 EylemPinkney/EylemPinkney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
