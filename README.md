@@ -8,7 +8,7 @@ QA Automation Engineer
 
 📫 How to reach me https://www.linkedin.com/in/eylempinkney/
 
-⚡ Fun fact I love manual/automation testing, Typing code, swimming, camping,
+
 
 
 <!---
