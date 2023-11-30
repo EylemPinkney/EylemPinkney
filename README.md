@@ -2,7 +2,7 @@ Hi 👋, I'm Eylem
 
 QA Automation Engineer
 
-💕 I’m currently working on a project with framework TestNG, Cucumber
+💕 I’m currently working on a project with framework Selenium Cucumber
 
 🌱 I’m interested in learning Cypress
 
