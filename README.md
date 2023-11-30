@@ -1,6 +1,4 @@
-Hi 👋, 
-
-I'm Eylem
+Hi 👋, I'm Eylem
 
 QA Automation Engineer
 
