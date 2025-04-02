@@ -2,9 +2,7 @@ Hi 👋, I'm Eylem
 
 QA Automation Engineer
 
-💕 I’m currently working on a project with framework Selenium Cucumber
-
-🌱 I’m interested in learning Cypress
+💕 I’m currently working on a project with framework Playwright VS Code
 
 📫 How to reach me https://www.linkedin.com/in/eylempinkney/
 
